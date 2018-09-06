@@ -1,4 +1,4 @@
-def diplay_board()
+def diplay_board
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
